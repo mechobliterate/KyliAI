@@ -8,8 +8,9 @@ The most efficient agents are selected to pass on their traits to the next gener
 
 It typically takes around fifty generations for the AI to reach the first checkpoint when the evolution speed is set to six. Reaching the second checkpoint usually takes about one hundred twenty generations, with later checkpoints taking progressively longer. The learning process is slow but reliable, and the AI eventually completes the maze without missing checkpoints or dying when facing enemies. Compared to the millions of years it took for human intelligence to evolve, AdamAI simply requires patience.
 
-<img src="https://i.imgur.com/tHDRHvM.jpeg" alt="Picture of a KylieAI in-action demonstration."/>
-
+<video src="https://i.imgur.com/a/Cnwz21r.mp4" controls>
+  Your browser does not support the video tag.
+</video>
 ## Features
 
 * **The AI**: The small square at the black starting point represents the fittest agent of the current generation. Press the space bar to view the entire population.
