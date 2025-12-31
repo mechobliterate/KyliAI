@@ -1,14 +1,14 @@
-# AdamAI
+# Kyli AI
 
-<p align="center">AdamAI is an artificial intelligence that learns to solve mazes using a genetic algorithm.</p>
+<p align="center">Kyli AI is an artificial intelligence that learns to solve mazes using a genetic algorithm.</p>
 
-AdamAI applies the principles of natural selection and survival of the fittest to improve its maze-solving abilities over successive generations. Each generation consists of randomly initialized "agents." As they attempt the maze, the most successful agent—measured by its distance to the next checkpoint and the fewest moves taken—is selected to influence the next generation.
+Kyli AI applies the principles of natural selection and survival of the fittest to improve its maze-solving abilities over successive generations. Each generation consists of randomly initialized "agents." As they attempt the maze, the most successful agent—measured by its distance to the next checkpoint and the fewest moves taken—is selected to influence the next generation.
 
 Every five generations, agents are allowed more moves, enabling them to learn more complex paths (“incremental learning”). Over time, efficient strategies are “passed down” and refined, dramatically improving the AI's performance.
 
-**Note:** AdamAI typically reaches the first checkpoint in about 50 generations (with evolution speed set to 6), the second in around 120 generations, and continues to improve as learning progresses. Be patient—evolution takes time!
+**Note:** Kyli AI typically reaches the first checkpoint in about 50 generations (with evolution speed set to 6), the second in around 120 generations, and continues to improve as learning progresses. Be patient—evolution takes time!
 
-<img src="https://imgur.com/zpuw4bf.jpg" alt="AdamAI demo screenshot"/>
+<img src="https://imgur.com/zpuw4bf.jpg" alt="Kyli AI demo screenshot"/>
 
 ## Features
 
